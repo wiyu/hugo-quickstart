@@ -1,11 +1,8 @@
 ---
-title: "My First Post"
+title: "Hello World"
 date: 2017-08-10T22:24:28-04:00
 draft: false
 ---
-## **Hello World**
----
-
 **Java**
 ```
 public static void main(String[] args) {
